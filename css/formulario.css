@@ -1,0 +1,27 @@
+.form-control:focus{
+  border-color: rgba(238, 255, 0, 0.6);
+  outline: 0;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(238, 255, 0, 0.6);
+  box-shadow: 0 0 8px rgba(238, 255, 0, 0.6) !important;
+}
+
+.focused-input{
+  border-color: rgba(238, 255, 0, 0.6);
+  outline: 0;
+  outline: thin dotted \9;
+  -moz-box-shadow: 0 0 8px rgba(238, 255, 0, 0.6);
+  box-shadow: 0 0 8px rgba(238, 255, 0, 0.6) !important;
+}
+
+.section-title{
+  font-weight: bold;
+  margin-top: -13px;
+  background: #fff;
+  position: absolute;
+  padding: 0 5px 0 5px;
+}
+
+.section-title p{
+  margin-bottom: 0;
+}
